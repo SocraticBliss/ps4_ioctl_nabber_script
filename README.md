@@ -1,2 +1,8 @@
-# ps4_ioctl_nabber_script
-PS4 IOCTL Nabber / IDA 7.0-7.2
+# PS4 IOCTL Nabber
+SocraticBliss (R)
+
+An IDA script that saves the ioctl requests to an output file
+
+# Usage
+1) Load a PS4 Module file (.prx, .sprx, .elf, .self)
+2) File > Script File... > **[ps4_ioctl_nabber.py]**
